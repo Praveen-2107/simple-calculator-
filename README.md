@@ -1,6 +1,6 @@
 # Simple Interest Calculator
 
-This is a simple web application that calculates simple interest.
+This is a simple web application that calculates simple interest. It is very user-friendly.
 
 ## Features
 
